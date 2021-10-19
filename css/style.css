@@ -1,0 +1,46 @@
+body{
+  background-color: #Effbf9;
+  background: url(../images/home-bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.btn-group-lg{
+  border: #66bfbf 5px;
+}
+.card-header{
+  font-family: 'Acme', sans-serif;
+  font-weight: bold;
+}
+.card-text{
+  font-family: Montserrat;
+}
+h5{
+  font-weight: bold;
+  color: #66bfbf;
+  padding-bottom: 15px;
+
+}
+/* .front-image{
+  height: 600px;
+  width: 1000px;
+} */
+.nav-item{
+  padding: 0 18px;
+}
+.rules{
+  position: absolute;
+  left:10px;
+  top:110px;
+}
+
+/* .container-fluid{
+  padding: 3% 15%;
+} */
+/* .image{
+  padding: 160px 0 200px 200px;
+} */
+#title{
+
+  color: #000;
+}
