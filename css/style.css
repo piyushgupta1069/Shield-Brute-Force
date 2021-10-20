@@ -1,12 +1,21 @@
 body{
-  background-color: #Effbf9;
-  background: url(../images/home-bg.jpg) no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-color: #effbf9;
 }
-.btn-group-lg{
-  border: #66bfbf 5px;
+/* .a:hover{
+  color: #66BFBF;
+} */
+.top-container{
+  background-color: #66BFBF;
+  padding-top: 25px;
+  /* padding-bottom: px; */
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.container-fluid{
+  margin: 0;
 }
 .card-header{
   font-family: 'Acme', sans-serif;
@@ -15,36 +24,64 @@ body{
 .card-text{
   font-family: Montserrat;
 }
+.footer-link{
+  color: #fff;
+  padding: 10%;
+}
 h5{
   font-weight: bold;
   color: #66bfbf;
   padding-bottom: 15px;
 
 }
-/* .front-image{
-  height: 600px;
-  width: 1000px;
-} */
-.nav-item{
-  padding: 0 18px;
+h3{
+  padding-left: 45%;
+}
+.image{
+  position: absolute;
+  top:50%;
+  left: 25%;
+}
+.header{
+  background-color: #66BFBF;
+}
+.name{
+  font-weight: bold;
+  font-family: Montserrat;
+  color: #fff;
+  padding-left: 40%;
+}
+.right-container{
+  margin-top: 30%;
+  width: 100px;
+
+}
+.navbar{
+  padding-bottom: 10px;
+}
+.row1{
+  padding-left: 10px;
+}
+.row2{
+  padding-left: 19px;
+}
+.nav-link{
+  font-size: 20px;
+}
+.xyz{
+  padding-top: 2%;
 }
 .rules{
   position: absolute;
   left:10px;
-  top:110px;
+  top:20px;
 }
-
-/* .container-fluid{
-  padding: 3% 15%;
-} */
-/* .image{
-  padding: 160px 0 200px 200px;
-} */
-#title{
-
-  color: #000;
+.prevention{
+  margin-left: 2%;
 }
-
-.link{
+.symptoms{
+  margin-left: 2%;
+}
+/* #title{
   color: #fff;
-}
+} */
