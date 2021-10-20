@@ -87,4 +87,14 @@ h3{
 } */
 .link{
   color: #fff;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #fff ;
+  text-decoration: none;
+}
+
+.btn-info:active{
+transform: scale(1.3);
 }
